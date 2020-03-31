@@ -34,14 +34,14 @@ formatter.match({
   "location": "HomePageStepDefn.user_is_on_HomePage()"
 });
 formatter.result({
-  "duration": 10161254800,
+  "duration": 12031902100,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageStepDefn.verify_title_of_the_HomePage()"
 });
 formatter.result({
-  "duration": 19351500,
+  "duration": 98069800,
   "status": "passed"
 });
 formatter.uri("Login.feature");
@@ -80,14 +80,14 @@ formatter.match({
   "location": "LoginStepDefn.user_is_on_Page()"
 });
 formatter.result({
-  "duration": 95400,
+  "duration": 321100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefn.verify_title_of_the_Page()"
 });
 formatter.result({
-  "duration": 31900,
+  "duration": 56600,
   "status": "passed"
 });
 });
